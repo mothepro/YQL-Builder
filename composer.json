@@ -1,0 +1,21 @@
+{
+    "name": "mothepro/YQL-Builder",
+    "description": "An SQL builder for Yahoo's Query Language",
+    "authors": [
+        {
+            "name": "Maurice Prosper",
+            "email": "maurice.prosper@ttu.edu"
+        }
+    ],
+    "require": {
+		"php": ">=5.4",
+        "lib-curl": "*",
+
+        "educoder/pest": "*"
+    },
+	"autoload": {
+		"psr-0": {
+			"Yql"	: "src/"
+		}
+	}
+}

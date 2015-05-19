@@ -1,0 +1,5 @@
+/vendor/
+/www/
+/composer.lock
+/tests/
+nbproject/
