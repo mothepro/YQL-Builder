@@ -1,6 +1,6 @@
 {
-    "name": "mothepro/YQL-Builder",
-    "description": "An SQL builder for Yahoo's Query Language",
+    "name": "mothepro/yql-builder",
+    "description": "An API for Yahoo's Query Language",
     "authors": [
         {
             "name": "Maurice Prosper",
