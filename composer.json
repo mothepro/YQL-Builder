@@ -1,6 +1,7 @@
 {
     "name": "mothepro/yql-builder",
     "description": "An API for Yahoo's Query Language",
+	"license": "GPL-2.0",
     "authors": [
         {
             "name": "Maurice Prosper",
