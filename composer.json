@@ -11,9 +11,17 @@
     "require": {
 		"php": ">=5.4",
         "lib-curl": "*",
-
-        "educoder/pest": "*"
+        "educoder/pest": "1.0.0"
     },
+    "keywords": [
+      "yahoo",
+      "yql",
+      "query",
+      "api",
+      "finance",
+      "stock",
+      "market"
+    ],
 	"autoload": {
 		"psr-0": {
 			"Yql"	: "src/"
