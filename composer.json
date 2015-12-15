@@ -23,8 +23,8 @@
       "market"
     ],
 	"autoload": {
-		"psr-0": {
-			"Yql"	: "src/"
+		"psr-4": {
+			"Yql\\"	: "src/"
 		}
 	}
 }
